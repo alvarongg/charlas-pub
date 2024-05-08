@@ -1,13 +1,18 @@
-# charlas-pub
-Contenedor de recursos de las charlas impartidas por @alvarongg en diferentes user groups y eventos.
+# 🎤 Charlas Públicas - Alvaro Garcia
+Este repositorio contiene recursos de las charlas impartidas por @alvarongg en diferentes grupos de usuarios y eventos. 🌟 ¡Si te gusta el contenido, no olvides darle una estrella al repositorio para apoyar y estar al tanto de nuevos recursos!
+
+## Charlas 📚
+
+- [Los Anillos de Seguridad en AWS](Anillos-de-Seguridad/Anillos-de-Seguridad.md)
+- [🤖 Machine Learning from 0 to Hero en AWS](Charla-Ml-0toHero/ML-0toHero.md)
 
 
 
-## Charlas
 
-- [Machine Learning from 0 to Hero en aws](Charla-Ml-0toHero/ML-0toHero.md)
+## Contacta conmigo 📬
 
+- [🔗 Alvaro García](https://linktr.ee/alvarongg)
 
-# Contacta conmigo
+---
 
--[Alvaro Garcia](https://linktr.ee/alvarongg)
+💡 **Tu apoyo es importante!** Dando una estrella 🌟 a este repositorio, me ayudas a ganar visibilidad y a seguir compartiendo más recursos valiosos. ¡Mantente atento/a a las actualizaciones!

@@ -106,6 +106,11 @@ Amazon EC2 es un servicio de informática en la nube que proporciona capacidad i
 Mucho cuidado con dejar cosas prendidas. Siempre que terminen de usar un servicio, apaguenlo o eliminenlo. Si no lo hacen, les van a cobrar y no hay manera al día de hoy de poner un corte en la facturación (aunque AWS está trabajando en ello).
 
 
+## Otras charlas interesantes 📚
+
+- [Los Anillos de Seguridad en AWS](../Anillos-de-Seguridad/Anillos-de-Seguridad.md)
+
+
 ## Autores
 
 -[Alvaro Garcia](https://linktr.ee/alvarongg)
