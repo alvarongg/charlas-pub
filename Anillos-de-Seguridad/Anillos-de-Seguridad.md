@@ -60,6 +60,8 @@ Mucho cuidado con dejar cosas prendidas. Siempre que terminen de usar un servici
 
 ## Otras charlas interesantes 📚
 
+
+- [Cómo evitar que tu Data Lake se convierta en un Data Swamp​](../Charla-DataLake-2023/Charla-DataLake-2023.md)
 - [Machine Learning from 0 to Hero en aws](../Charla-Ml-0toHero/ML-0toHero.md)
 
 

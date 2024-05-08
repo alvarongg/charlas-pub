@@ -108,8 +108,9 @@ Mucho cuidado con dejar cosas prendidas. Siempre que terminen de usar un servici
 
 ## Otras charlas interesantes 📚
 
-- [Los Anillos de Seguridad en AWS](../Anillos-de-Seguridad/Anillos-de-Seguridad.md)
 
+- [Los Anillos de Seguridad en AWS](../Anillos-de-Seguridad/Anillos-de-Seguridad.md)
+- [Cómo evitar que tu Data Lake se convierta en un Data Swamp​](../Charla-DataLake-2023/Charla-DataLake-2023.md)
 
 ## Autores
 
@@ -121,4 +122,4 @@ Licencia abierta a la comunidad para que puedan utilizar, compartir y modificar 
 
 ## Agradecimientos
 
-Agradecimientos a los user gruoups que me permitieron participar de las charlas y a Matias Cirillo que me ayudó en la revisión del contenido.
+Agradecimientos a los user gruoups que me permitieron participar de las charlas , a Matias Cirillo y Fede del campo que me ayudaron en la revisión del contenido.
