@@ -5,7 +5,7 @@ Contenedor de recursos de las charlas impartidas por @alvarongg en diferentes us
 
 ## Charlas
 
-- [Machine Learning from 0 to Hero en aws](charla-ml-0tohero/ML-0toHero.md)
+- [Machine Learning from 0 to Hero en aws](Charla-Ml-0toHero/ML-0toHero.md)
 
 
 # Contacta conmigo
